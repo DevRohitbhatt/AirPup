@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Chew Barka",
+        "breed": "Bichon",
+        "age": "",
+        "weight": 8,
+        "bio": "The park, The pool or the Playground - I love to go anywhere! I am really great at... SQUIRREL!",
+        "image": "pet1.png"
+    },
+    {
+        "name": "Spark Pug",
+        "breed": "Pug",
+        "age": "hidden",
+        "weight": 11,
+        "bio": "You want to go to the dog park in style? Then I am your pug!",
+        "image": "pet2.png"
+    },
+    {
+        "name": "Pico de Gato",
+        "breed": "Bengal",
+        "weight": 9,
+        "bio": "Oh hai, if you do not have a can of salmon I am not interested.",
+        "image": "pet3.png"
+    },
+    {
+        "name": "Pancake",
+        "age": "1 year",
+        "weight": 9,
+        "bio": "Treats and Snoozin!",
+        "image": "pancake.png",
+        "breed": "Bulldog"
+    },
+    {
+        "name": "Github",
+        "breed": "dsgfsdf",
+        "weight": "85",
+        "bio": "jhfjsdhjglkjdfgkjkfdsgkfsdjglfkmglfmgklvmfgkfdg;lfl;",
+        "image": "",
+        "age": ""
+    },
+    {
+        "name": "gsdfghdfgh",
+        "breed": "fdghfdgdf",
+        "weight": "145",
+        "bio": "gdhfdghdghgfdhdfhgfjhsdlfjkdsjfkldsjfjkds",
+        "image": "",
+        "age": ""
+    },
+    {
+        "name": "qwerty",
+        "breed": "efedgfds",
+        "weight": "74",
+        "bio": "tyhtrhrthtr",
+        "image": "",
+        "age": ""
+    },
+    {
+        "name": "qwertydfgfdg",
+        "breed": "dfgdsg",
+        "weight": "45",
+        "bio": "fbcfbcvncvncvn",
+        "image": "",
+        "age": ""
+    },
+    {
+        "name": "fbgfdhgfhj",
+        "breed": "hgfhgfh",
+        "weight": "45",
+        "bio": "gfhgfhgfh",
+        "image": "",
+        "age": ""
+    }
+]
